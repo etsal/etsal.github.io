@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Emil Tsalapatis
 tagline:          'PhD Researcher @ RCS Lab, University of Waterloo'
 description:      'PhD Researcher at the University of Waterloo. Working on Operating Systems, Storage and Serverless Computing.'
-url:              https://etsal.github.io
+url:              https://www.watchedkettle.com
 baseurl:          '/docs/'
 destination:      'docs/'
                   # the optional subpath of your site, e.g. "/blog"
