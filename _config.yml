@@ -7,8 +7,7 @@ title:            Emil Tsalapatis
 tagline:          'PhD Researcher @ RCS Lab, University of Waterloo'
 description:      'PhD Researcher at the University of Waterloo. Working on Operating Systems, Storage and Serverless Computing.'
 url:              https://www.watchedkettle.com
-baseurl:          '/'
-destination:      'docs/'
+baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
