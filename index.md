@@ -15,7 +15,7 @@ The [Aurora](https://rcs.uwaterloo.ca/aurora/) project builds a fully UNIX compa
 
 **Persist-API**
 
-This project is an explicit high-performance persistence API that applications applications use to efficiently persist memory-mapped data. Persist-API overcomes the correctness and scalability issues of existing OS APIs when used with memory-mapped data, and lets developers write simpler persistence code. Replacing the file API with Persist-API results in performance improvements for databases like RocksDB, SQLite, and PostgreSQL.
+This project is an explicit high-performance persistence API that applications use to efficiently persist memory-mapped data. Persist-API overcomes the correctness and scalability issues of existing OS APIs when used with memory-mapped data, and lets developers write simpler persistence code. Replacing the file API with Persist-API results in performance improvements for databases like RocksDB, SQLite, and PostgreSQL.
 
 **Metropolis**
 
