@@ -21,6 +21,12 @@ paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
+github_page:
+  - url:  https://github.com/etsal 
+
+linkedin_page:
+  - url:  https://www.linkedin.com/in/emil-tsalapatis-41ab40b1
+
 plugins:
   - jekyll-feed
   - jekyll-gist
@@ -28,6 +34,7 @@ plugins:
 
 # Sidebar link settings
 sidebar_home_link:  false
+
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
