@@ -59,6 +59,6 @@ Here is an up-to-date [resume](assets/pdf/tsalapatis_cv.pdf).
 
 # Contact 
 
-You can find me on [Github](https://github.com/etsal) and [LinkedIn](www.linkedin.com/in/emil-tsalapatis-41ab40b1).
+You can find me on [Github](https://github.com/etsal) and [LinkedIn](https://www.linkedin.com/in/emil-tsalapatis-41ab40b1).
 
 You can contact me at *firstname* at *etsalapatis.com*.
