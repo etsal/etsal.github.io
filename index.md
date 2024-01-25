@@ -25,14 +25,22 @@ Metropolis optimizes Aurora's restore path for fast serverless function invocati
 # Education
 
 **PhD Degree**
-University of Waterloo                  2018- June 2024 (Expected)
+<pre>University of Waterloo                     2018-June 2024 (Expected)</pre>
+
 Advisor: Ali José Mashtizadeh
+
 Topic: Transparent OS Persistence for Applications
 
+<br />
+
 **Undergraduate Degree**
-National Technical University of Athens 2012-2018
+
+<pre>National Technical University of Athens     2012-2018</pre>
+
 Advisor: Georgios Goumas
+
 GPA: 8.6/10
+
 Topic: Memory Elasticity for Virtual Machines with Trancendent Memory
 
 
