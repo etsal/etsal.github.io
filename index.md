@@ -1,6 +1,6 @@
 ---
-layout: category
-title: About
+layout: index
+title: Home
 ---
 
 I am a final year PhD student at the University of Waterloo, working with Professor [Ali Mashtizadeh](https://rcs.uwaterloo.ca/~ali). My research is on operating systems, file systems, and cloud computing infrastructure. During my PhD I have used kernel mechanisms to provide efficient persistence, fault tolerance, and autoscaling to applications as an OS service. As of 2024 I am looking for industry engineering or research roles.
