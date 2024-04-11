@@ -5,7 +5,7 @@ title: Home
 
 I am a final year PhD student at the University of Waterloo, working with Professor [Ali Mashtizadeh](https://rcs.uwaterloo.ca/~ali). My research is on operating systems, file systems, and cloud computing infrastructure. During my PhD I have used kernel mechanisms to provide efficient persistence, fault tolerance, and autoscaling to applications as an OS service. As of 2024 I am looking for industry engineering or research roles.
 
-I obtained my undergraduate degree from the [National Technical University of Athens (NTUA)](https://www.ntua.gr/en), where I conducted research at the [Computing Systems lab](research.cslab.ece.ntua.gr). My undergraduate thesis was on utmem, an API that uses paravirtualization to expose a transcendent memory mechanism from the host directly to a guest Linux VM's applications.
+I obtained my undergraduate degree from the [National Technical University of Athens (NTUA)](https://www.ntua.gr/en), where I conducted research at the [Computing Systems lab](research.cslab.ece.ntua.gr). My undergraduate thesis was on utmem, an API that uses paravirtualization to expose a Transcendent Memory mechanism from the host directly to a guest Linux VM's applications.
 
 # Projects
 
