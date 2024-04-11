@@ -44,7 +44,7 @@ Topic: Memory Elasticity for Virtual Machines with Trancendent Memory
 
 *  [Ryan Hancock](https://rcs.uwaterloo.ca/~ryan), **Emil Tsalapatis**, [Ali José Mashtizadeh](https://rcs.uwaterloo.ca/~ali), [Omid Abari](https://web.cs.ucla.edu/~omid), [Yousra Aafer](https://cs.uwaterloo.ca/~yaafer). (Title anonymized) Fine-grained System Call Debloating for Secure OS Containers. Under submission.
 
-*  **Emil Tsalapatis**\*, [Ryan Hancock\*](https://rcs.uwaterloo.ca/~ryan), [Rakeeb Hossain](https://rakeeb-hossain.github.io), [Ali José Mashtizadeh](https://rcs.uwaterloo.ca/~ali). MemSnap: A Data Single Level Store for Fearless Persistence. In Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS '24). April, 2024. Acceptance Rate 19.8% (81/409)
+*  **Emil Tsalapatis**\*, [Ryan Hancock\*](https://rcs.uwaterloo.ca/~ryan), [Rakeeb Hossain](https://rakeeb-hossain.github.io), [Ali José Mashtizadeh](https://rcs.uwaterloo.ca/~ali). [MemSnap: A Data Single Level Store for Fearless Persistence](/assets/pdf/memsnap-asplos.pdf). In Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS '24). April, 2024. Acceptance Rate 19.8% (81/409)
 
 * **Emil Tsalapatis**, [Ryan Hancock](https://rcs.uwaterloo.ca/~ryan), [Tavian Barnes](https://tavianator.com), [Ali José Mashtizadeh](https://rcs.uwaterloo.ca/~ali). [The Aurora Single Level Store Operating System](/assets/pdf/aurora-sosp.pdf). In Proceedings of the Symposium on Operating System Principles (SOSP '21). October, 2021. Acceptance Rate 15.6% (54/348)
 
