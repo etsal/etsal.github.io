@@ -13,7 +13,7 @@ I obtained my undergraduate degree from the [National Technical University of At
 
 The [Aurora](https://rcs.uwaterloo.ca/aurora/) project builds a fully UNIX compatible Single Level Store. Aurora's design goal is to transparently persist applications without developer effort. It does so by continuously checkpointing them and flushing these checkpoints to the disk. Aurora uses fast storage devices to do these checkpoints at a high frequency for fine grained persistence. 
 
-**Persist-API**
+**MemSnap**
 
 This project is an explicit high-performance persistence API that applications use to efficiently persist memory-mapped data. Persist-API overcomes the correctness and scalability issues of existing OS APIs when used with memory-mapped data, and lets developers write simpler persistence code. Replacing the file API with Persist-API results in performance improvements for databases like RocksDB, SQLite, and PostgreSQL.
 
